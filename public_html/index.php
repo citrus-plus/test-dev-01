@@ -91,10 +91,13 @@
                 <div class="blockinput">
 					<input type="text" required name="Телефон" class="tilda-input" value="" placeholder="Телефон" style="color:#000000; border:1px solid #000000;  ">
                 </div>
-                <div class="blockbutton">
-                	<button type="submit" type="submit" class="tilda-submit" style="color:#ffffff; border: solid ; background-color:#e61e1e; ">Узнать стоимость по акции!</button>                </div>
-               </div>
+               <div class="blockinput">
+					<input type="email" required name="Email" class="tilda-input" value="" placeholder="*Email" style="color:#000000; border:1px solid #000000;  ">
+                </div> 
 			</div>
+			<div class="blockbutton">
+                	<button type="submit" type="submit" class="tilda-submit" style="color:#ffffff; border: solid ; background-color:#F29313; ">Узнать стоимость по акции</button>                </div>
+             </div>
 		</div>
     </form></div>
 
@@ -170,10 +173,13 @@
                 <div class="blockinput">
 					<input type="text" required name="Телефон" class="tilda-input" value="" placeholder="Телефон" style="color:#000000; border:1px solid #000000;  ">
                 </div>
-                <div class="blockbutton">
-                	<button type="submit" type="submit" class="tilda-submit" style="color:#ffffff; border: solid ; background-color:#e61e1e; ">Узнать стоимость по акции</button>                </div>
-               </div>
+                <div class="blockinput">
+					<input type="email" required name="Email" class="tilda-input" value="" placeholder="*Email" style="color:#000000; border:1px solid #000000;  ">
+                </div>
 			</div>
+			<div class="blockbutton">
+                	<button type="submit" type="submit" class="tilda-submit" style="color:#ffffff; border: solid ; background-color:#F29313; ">Узнать стоимость по акции</button>                </div>
+             </div>
 		</div>
     </form></div>
 
@@ -250,10 +256,13 @@
                 <div class="blockinput">
 					<input type="text" required name="Телефон" class="tilda-input" value="" placeholder="Телефон" style="color:#000000; border:1px solid #000000;  ">
                 </div>
-                <div class="blockbutton">
-                	<button type="submit" type="submit" class="tilda-submit" style="color:#ffffff; border: solid ; background-color:#e61e1e; ">Узнать стоимость по акции</button>                </div>
-               </div>
+                <div class="blockinput">
+					<input type="email" required name="Email" class="tilda-input" value="" placeholder="*Email" style="color:#000000; border:1px solid #000000;  ">
+                </div>
 			</div>
+				<div class="blockbutton">
+                	<button type="submit" type="submit" class="tilda-submit" style="color:#ffffff; border: solid ; background-color:#F29313; ">Узнать стоимость по акции</button>                </div>
+               </div>
 		</div>
     </form></div>
 
