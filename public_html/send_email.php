@@ -27,6 +27,7 @@ if ( (isset($_POST)) && (!empty($_POST)) ) {
     $dump = array(
         'fio' => false,
         'phone' => false,
+        'email' => false,
         'description' => $subject,
     );
 
@@ -35,6 +36,9 @@ if ( (isset($_POST)) && (!empty($_POST)) ) {
     }
     if (isset($_POST['Телефон'])) {
         $dump['phone'] = $_POST['Телефон'];
+    }
+    if (isset($_POST['Телефон'])) {
+        $dump['email'] = $_POST['Email'];
     }
 
     $message .= 'С лендинга ' . $site . ' поступила заявка:<br><br>';

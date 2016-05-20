@@ -5551,18 +5551,21 @@
 }
 .t186A .wrapper {
   display: table;
+  width: 100%;
 }
 .t186A .blockinput {
   display: table-cell;
   vertical-align: middle;
   height: 100%;
-  width: 50%;
+  width: 33.7%;
   padding-right: 20px;
 }
 .t186A .blockbutton {
-  display: table-cell;
+  display: block;
   vertical-align: middle;
   height: 100%;
+  text-align: center;
+  margin-top: 10px;
 }
 @media screen and (max-width: 640px) {
   .t186A .wrapper {
